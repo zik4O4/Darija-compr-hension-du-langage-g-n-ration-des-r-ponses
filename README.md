@@ -159,7 +159,7 @@ Ce projet est réalisé dans un cadre académique et expérimental.
 
 Les réponses générées ne remplacent pas l’avis, le diagnostic ou les recommandations d’un professionnel de santé.
 
-## Auteur
+## Réalise par
 
 **Zakariya BEN KASSI**
 
