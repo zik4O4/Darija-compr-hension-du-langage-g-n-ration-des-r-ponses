@@ -1,0 +1,4 @@
+Model,BERTScore_F1,chrF,Accuracy@0.5,ROUGE-L,Composite
+Atlas-Chat,0.7501,0.2391,0.53,0.0693,0.4652
+Llama 3,0.7307,0.202,0.51,0.0685,0.444
+AraBART,0.6457,0.1052,0.43,0.0467,0.3668

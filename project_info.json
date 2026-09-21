@@ -1,0 +1,15 @@
+{
+  "project": "Darija Medical QA",
+  "task": "Generative Question Answering",
+  "language": "Moroccan Darija",
+  "domain": "Medical",
+  "models": [
+    "Atlas-Chat",
+    "Llama 3.1",
+    "Mistral 7B",
+    "Phi-3.5 Mini",
+    "AraBART"
+  ],
+  "seed": 42,
+  "note": "Included dataset files are synthetic demonstrations, not MedQA-MA."
+}
