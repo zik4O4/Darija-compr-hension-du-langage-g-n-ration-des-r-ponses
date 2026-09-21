@@ -47,7 +47,6 @@ Principaux paramètres utilisés pour les modèles Decoder-only :
 - LoRA alpha : `32`
 - LoRA dropout : `0.05`
 - Learning rate : `2e-4`
-- Nombre d’époques : `1`
 - Longueur maximale : `256` tokens
 - Batch size par appareil : `4`
 - Gradient accumulation : `4`
@@ -57,7 +56,6 @@ Pour **AraBART** :
 
 - Fine-Tuning complet
 - Learning rate : `3e-5`
-- Nombre d’époques : `3`
 - Longueur maximale : `256` tokens
 
 ## Métriques d’évaluation
